@@ -14,7 +14,7 @@ I'm not responsible for any use. This project was made for education purposes. W
 
 ### ⭐ Support me
 
-Support me by staring my repository. I'm not silly to ask you to donate me money for a keylogger ;)
+Support me by staring my repository. I'm not too silly to ask you to give me a few money for a keylogger ;)
 
 ---
 
